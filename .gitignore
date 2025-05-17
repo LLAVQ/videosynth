@@ -1,0 +1,19 @@
+# Node
+node_modules
+dist
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Vite build
+frontend/dist/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
